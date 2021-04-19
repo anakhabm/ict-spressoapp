@@ -6,7 +6,7 @@ It is single paged angular application built for a food delivery company. This p
 
 ## Deployment
 
-This Project is hosted online at [gidimo.herokuapp.com](gidimo.herokuapp.com)
+This Project is hosted online at [spressoapp.herokuapp.com](spressoapp.herokuapp.com)
 
 ## Development server
 
